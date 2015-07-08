@@ -1,0 +1,19 @@
+{
+  "name": "az-page-objects",
+  "version": "1.0.0",
+  "description": "Global object for alianza page objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alianza-dev/az-page-objects.git"
+  },
+  "author": "Kent C. Dodds <kentcdodds@alianza.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alianza-dev/az-page-objects/issues"
+  },
+  "homepage": "https://github.com/alianza-dev/az-page-objects#readme"
+}
